@@ -1,0 +1,75 @@
+0 
+24
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvirsim.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/liberrorinf.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libsnpsmalloc.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvfs.so
+-Mout=output.simv
+-Msaverestoreobj=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-full64
+-gen_obj
+-o output.simv
+-picarchive
+-sverilog
+/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/bin/vcs1
+mem8KB.sv
+tb.sv
+37
+sysc_uni_pwd=/Users/students/cadiga/DV/Reuse/APB
+installdir=/packages/synopsys/icc2/S-2021.06-SP1
+XKEYSYMDB=/usr/share/X11/XKeysymDB
+XDG_SESSION_ID=32321
+XDG_RUNTIME_DIR=/run/user/1633
+VMR_MODE_FLAG=64
+VIRSIMHOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/gui/virsim
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1
+VCS_DEPTH=0
+VCS_CC=gcc
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+VCS=/packages/synopsys/vcs_mx/O-2018.09-SP1
+UNAME=/bin/uname
+TOOL_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64
+TOOLSET=VCS
+SYNOPSYS_LC_ROOT=/packages/synopsys/library_compiler/S-2021.06-SP4
+SSH_TTY=/dev/pts/3
+SSH_CONNECTION=130.212.161.234 56860 130.212.82.52 22
+SSH_CLIENT=130.212.161.234 56860 22
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=130.212.161.234
+OVA_UUM=0
+OSTYPE=linux
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=KEYRING:persistent:1633
+HOSTTYPE=x86_64-linux
+GROUP=users
+CG_PROGNAME=Synopsys
+0
+2
+1721861436 mem8KB.sv
+1721861743 tb.sv
+4
+1543552622 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvirsim.so
+1543551927 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/liberrorinf.so
+1543551833 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libsnpsmalloc.so
+1543551917 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvfs.so
+1721861746 output.simv.daidir
+-1 partitionlib

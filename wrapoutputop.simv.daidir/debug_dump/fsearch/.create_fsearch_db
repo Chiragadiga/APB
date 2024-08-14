@@ -1,0 +1,9 @@
+#!/bin/sh -h 
+PYTHONHOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/etc/search/pyh
+export PYTHONHOME
+PYTHONPATH=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/pylib27
+export PYTHONPATH
+LD_LIBRARY_PATH=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib:/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/pylib27
+export LD_LIBRARY_PATH
+/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/bin/vcsfind_create_index.exe  -z  "/Users/students/cadiga/DV/Reuse/APB/wrapoutputop.simv.daidir/debug_dump/fsearch/./idents_uBLuM4.xml.gz" "/Users/students/cadiga/DV/Reuse/APB/wrapoutputop.simv.daidir/debug_dump/fsearch/./idents_tapi.xml.gz" -o "/Users/students/cadiga/DV/Reuse/APB/wrapoutputop.simv.daidir/debug_dump/fsearch/fsearch.db_tmp"
+\mv "/Users/students/cadiga/DV/Reuse/APB/wrapoutputop.simv.daidir/debug_dump/fsearch/fsearch.db_tmp" "/Users/students/cadiga/DV/Reuse/APB/wrapoutputop.simv.daidir/debug_dump/fsearch/fsearch.db"

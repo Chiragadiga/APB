@@ -1,0 +1,76 @@
+0 
+24
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -O -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -m32 -m32 -rdynamic
+-Mobjects= /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libvirsim.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/liberrorinf.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libsnpsmalloc.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libvfs.so
+-Mout=wrapper.simv
+-Msaverestoreobj=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/ctype-stubs_32.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -m32 -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-gen_obj
+-o wrapper.simv
+-picarchive
+-sverilog
+/packages/synopsys/vcs_mx/O-2018.09-SP1/linux/bin/vcs1
+apb_wrapper.sv
+mem8KB.sv
+tb_wrapper.sv
+37
+sysc_uni_pwd=/Users/students/cadiga/DV/Reuse/APB
+installdir=/packages/synopsys/icc2/S-2021.06-SP1
+XKEYSYMDB=/usr/share/X11/XKeysymDB
+XDG_SESSION_ID=32439
+XDG_RUNTIME_DIR=/run/user/1633
+VMR_MODE_FLAG=32
+VIRSIMHOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/gui/virsim
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1
+VCS_DEPTH=0
+VCS_CC=gcc
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+VCS=/packages/synopsys/vcs_mx/O-2018.09-SP1
+UNAME=/bin/uname
+TOOL_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux
+TOOLSET=VCS
+SYNOPSYS_LC_ROOT=/packages/synopsys/library_compiler/S-2021.06-SP4
+SSH_TTY=/dev/pts/3
+SSH_CONNECTION=130.212.160.67 54047 130.212.82.52 22
+SSH_CLIENT=130.212.160.67 54047 22
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=130.212.160.67
+OVA_UUM=0
+OSTYPE=linux
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=KEYRING:persistent:1633
+HOSTTYPE=x86_64-linux
+GROUP=users
+CG_PROGNAME=Synopsys
+0
+3
+1721864508 mem8KB.sv
+1721867129 apb_wrapper.sv
+1721892660 tb_wrapper.sv
+4
+1543553330 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libvirsim.so
+1543552586 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/liberrorinf.so
+1543552559 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libsnpsmalloc.so
+1543552955 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux/lib/libvfs.so
+1721892663 wrapper.simv.daidir
+-1 partitionlib

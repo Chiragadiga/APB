@@ -1,0 +1,93 @@
+0 
+33
++itf+/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/vcsdp_lite.tab
++vcsd1
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvirsim.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/liberrorinf.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libsnpsmalloc.so /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvfs.so
+-Mout=outputop.simv
+-Msaverestoreobj=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/packages/synopsys/vcs_mx/O-2018.09-SP1/include
+-debug_access+r
+-full64
+-gen_obj
+-o outputop.simv
+-picarchive
+-sverilog
+./classes.sv
+./interface.sv
+./mem8KB.sv
+./memory_reader.sv
+./tb1.sv
+./test.sv
+./top.sv
+/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/bin/vcs1
+40
+sysc_uni_pwd=/Users/students/cadiga/DV/Reuse/APB
+installdir=/packages/synopsys/icc2/S-2021.06-SP1
+XKEYSYMDB=/usr/share/X11/XKeysymDB
+XDG_SESSION_ID=32193
+XDG_RUNTIME_DIR=/run/user/1633
+VMR_MODE_FLAG=64
+VIRSIMHOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/gui/virsim
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1
+VCS_DEPTH=0
+VCS_CC=gcc
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+VCS=/packages/synopsys/vcs_mx/O-2018.09-SP1
+UNAME=/bin/uname
+TOOL_HOME=/packages/synopsys/vcs_mx/O-2018.09-SP1/linux64
+TOOLSET=VCS
+SYNOPSYS_LC_ROOT=/packages/synopsys/library_compiler/S-2021.06-SP4
+SSH_TTY=/dev/pts/4
+SSH_CONNECTION=130.212.160.67 51334 130.212.82.52 22
+SSH_CLIENT=130.212.160.67 51334 22
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=130.212.160.67
+OVA_UUM=0
+OSTYPE=linux
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KRB5CCNAME=KEYRING:persistent:1633
+HOSTTYPE=x86_64-linux
+GROUP=users
+CG_PROGNAME=Synopsys
+0
+8
+1721792966 ./memory_reader.sv
+1721805512 ./mem8KB.sv
+1721792966 ./interface.sv
+1721792966 ./test.sv
+1721792966 ./classes.sv
+1721792966 ./tb1.sv
+1721792966 ./top.sv
+1543551547 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/vcsdp_lite.tab
+4
+1543552622 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvirsim.so
+1543551927 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/liberrorinf.so
+1543551833 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libsnpsmalloc.so
+1543551917 /packages/synopsys/vcs_mx/O-2018.09-SP1/linux64/lib/libvfs.so
+1721805519 outputop.simv.daidir
+-1 partitionlib
